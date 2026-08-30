@@ -5,10 +5,10 @@ This repository contains the completed source code for Tutorial #3 on my YouTube
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@codedbyvin)
 
 ## Features
-* Add a label to display the purpose of the program.
-* Add a label to accept user input.
-* Add a groupbox to group controls.
-* Add radio buttons inside the groupbox.
+* Accepts a numeric input from the user for the radius of a circle.
+* Allows users to select their desired calculation, choosing between the circumference or the area.
+* Provides a specific option to perform no calculation at all.
+* Shows immediate feedback to the user via a pop-up window, such as confirming when no calculation is made.
 
 ## Tech Stack
 * **Language:** C#
